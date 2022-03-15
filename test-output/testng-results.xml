@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="50" started-at="2022-03-14T10:51:51Z" finished-at="2022-03-14T10:51:51Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="50" started-at="2022-03-14T10:51:51Z" finished-at="2022-03-14T10:51:51Z">
+      <class name="createorgTest.ReadOrgTest">
+        <test-method status="PASS" signature="readOrgTest()[pri:0, instance:createorgTest.ReadOrgTest@6d78f375]" name="readOrgTest" duration-ms="17" started-at="2022-03-14T16:21:51Z" finished-at="2022-03-14T16:21:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readOrgTest -->
+      </class> <!-- createorgTest.ReadOrgTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
