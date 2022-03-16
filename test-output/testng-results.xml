@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="61" started-at="2022-03-16T06:19:54Z" finished-at="2022-03-16T06:19:54Z">
+  <suite name="Default suite" duration-ms="65" started-at="2022-03-16T06:40:41Z" finished-at="2022-03-16T06:40:41Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="61" started-at="2022-03-16T06:19:54Z" finished-at="2022-03-16T06:19:54Z">
+    <test name="Default test" duration-ms="65" started-at="2022-03-16T06:40:41Z" finished-at="2022-03-16T06:40:41Z">
       <class name="createorgTest.CreateOrgTest">
-        <test-method status="PASS" signature="createOrgTest()[pri:0, instance:createorgTest.CreateOrgTest@6d78f375]" name="createOrgTest" duration-ms="22" started-at="2022-03-16T11:49:54Z" finished-at="2022-03-16T11:49:54Z">
+        <test-method status="PASS" signature="createOrgTest()[pri:0, instance:createorgTest.CreateOrgTest@6d78f375]" name="createOrgTest" duration-ms="23" started-at="2022-03-16T12:10:41Z" finished-at="2022-03-16T12:10:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createOrgTest -->
